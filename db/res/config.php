@@ -1,0 +1,9 @@
+<?php
+session_start();
+if(isset($_SESSION['user'],$_SESSION['passwd']))
+{
+if(!mysql_connect("127.0.0.1",$_SESSION['user'],$_SESSION['passwd']))
+{die("sorr".mysql_error());}
+mysql_select_db("rp");
+}
+?>
