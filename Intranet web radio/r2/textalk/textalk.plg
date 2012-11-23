@@ -1,0 +1,54 @@
+--------------------Configuration: textalk - Win32 Release--------------------
+Begining build with project "D:\temp\textalk.dsp", at root.
+Active configuration is Win32 (x86) Application (based on Win32 (x86) Application)
+
+Project's tools are:
+			"32-bit C/C++ Compiler for 80x86" with flags "/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp"Release/textalk.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c "
+			"OLE Type Library Maker" with flags "/nologo /D "NDEBUG" /mktyplib203 /o NUL /win32 "
+			"Win32 Resource Compiler" with flags "/l 0xc09 /fo"Release/textalk.res" /d "NDEBUG" "
+			"Browser Database Maker" with flags "/nologo /o"Release/textalk.bsc" "
+			"COFF Linker for 80x86" with flags "/nologo /subsystem:windows /incremental:no /pdb:"Release/textalk.pdb" /machine:I386 /out:"Release/textalk.exe" "
+			"Custom Build" with flags ""
+			"<Component 0xa>" with flags ""
+
+Creating command line "rc.exe /l 0xc09 /fo"Release/textalk.res" /d "NDEBUG" "D:\temp\textalk.rc"" 
+Creating temp file "C:\TEMP\RSP4A.tmp" with contents </nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp"Release/textalk.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\temp\MainFrm.cpp"
+"D:\temp\phoneme.cpp"
+"D:\temp\text.cpp"
+"D:\temp\textalk.cpp"
+"D:\temp\textalkDoc.cpp"
+"D:\temp\textalkView.cpp"
+>
+Creating command line "cl.exe @C:\TEMP\RSP4A.tmp" 
+Creating temp file "C:\TEMP\RSP4B.tmp" with contents </nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /Fp"Release/textalk.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\temp\StdAfx.cpp"
+>
+Creating command line "cl.exe @C:\TEMP\RSP4B.tmp" 
+Creating temp file "C:\TEMP\RSP4C.tmp" with contents </nologo /subsystem:windows /incremental:no /pdb:"Release/textalk.pdb" /machine:I386 /out:"Release/textalk.exe" 
+.\Release\MainFrm.obj
+.\Release\phoneme.obj
+.\Release\StdAfx.obj
+.\Release\text.obj
+.\Release\textalk.obj
+.\Release\textalkDoc.obj
+.\Release\textalkView.obj
+.\Release\textalk.res
+.\mbrplay.lib>
+Creating command line "link.exe @C:\TEMP\RSP4C.tmp" 
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+MainFrm.cpp
+phoneme.cpp
+text.cpp
+textalk.cpp
+textalkDoc.cpp
+textalkView.cpp
+Generating Code...
+Linking...
+
+
+
+textalk.exe - 0 error(s), 0 warning(s)

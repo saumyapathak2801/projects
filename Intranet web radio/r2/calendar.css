@@ -1,0 +1,93 @@
+#Calendar {
+	width:300px;	
+}
+
+#Calendar td {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	border-radius:100%;
+}
+#Calendar td :hover{
+	
+	font-weight:bold;
+	
+	}
+
+#Calendar .cMonth {
+	font-weight:bold;
+	text-align:center;
+	border-radius:30px;
+}
+
+#Calendar .wDays {
+	width: 250px;
+
+height: 10px;
+
+background-color:#ddd;
+
+color: #333;
+
+padding:4px 0;
+
+text-align:center;
+
+text-transform:uppercase;
+
+letter-spacing:1px;
+border-radius:30px;
+font-weight:bold;
+}
+
+#Calendar .mNav {
+	font-weight:bold;
+	text-align:center;
+	background-color:grey;
+	border-radius:30px;
+	font: normal 450% 'Jenna Sue', arial, sans-serif;
+}
+
+#Calendar table td a {
+	text-decoration:none;
+	color:#000;
+	border-radius:20px;
+	display:block;
+	font: normal 100% 'Jenna Sue', arial, sans-serif;
+	
+}
+
+#Calendar table td a:hover {
+	text-decoration:underline;
+	display:block;
+	font: normal 100% 'Jenna Sue', arial, sans-serif;
+	}
+
+
+#Calendar .available {
+	background-color:#9EA49A;
+color:#333;
+font-size:11px;
+font-weight:bold;;
+font-size:11px;
+font-weight:bold;
+border-radius:30px;
+font: normal 450% 'Jenna Sue', arial, sans-serif;
+}
+#Calendar .available:hover {
+	background-color:grey;
+color:#333;
+font-size:11px;
+font-weight:bold;;
+font-size:11px;
+font: normal 450% 'Jenna Sue', arial, sans-serif;
+border-radius:30px;
+
+}
+
+#Calendar .booked {
+	text-align:center;
+	background-color:#9EE362;
+	color:#FFF;
+	border-radius:30px;
+font: normal 450% 'Jenna Sue', arial, sans-serif;
+	}

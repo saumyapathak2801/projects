@@ -1,0 +1,6 @@
+The example expects na mp3 file to play.
+It should be named track.mp3 (Main.as, line 12) and 
+should be placed in this directory 
+(i.e. where the example.swf is).
+
+Bartek

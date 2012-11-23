@@ -1,0 +1,78 @@
+#######                 #######
+   #     ######  #    #    #       ##    #       #    #
+   #     #        #  #     #      #  #   #       #   #
+   #     #####     ##      #     #    #  #       ####
+   #     #         ##      #     ######  #       #  #
+   #     #        #  #     #     #    #  #       #   #
+   #     ######  #    #    #     #    #  ######  #    #  
+
+
+Disclaimer
+----------
+
+THIS SOFTWARE CARRIES NO WARRANTY, EXPRESSED OR IMPLIED. THE USER
+ASSUMES ALL RISKS, KNOWN OR UNKNOWN, DIRECT OR INDIRECT, WHICH
+INVOLVE THIS SOFTWARE IN ANY WAY. IN PARTICULAR, THE AUTHOR DOES NOT
+TAKE ANY COMMITMENT IN VIEW OF ANY POSSIBLE THIRD PARTY RIGHTS. 
+
+TexTalk
+-------
+
+The TexTalk project was undertaken as a thesis topic by Ben Wooller of the
+University of Queensland in 1998. It is an English text to speech system
+written in Visual C++, and it utilises the MBROLA synthesiser.
+
+Acknowledgements:
+Julie Vonwiller for phoneme duration data
+
+References:
+Wasser, J.A., English to Phoneme Translation, Littleton: Digital Equipment
+Corp., 1985.
+(for English letter to sound rules)
+
+CONTACT DETAILS
+Ben Wooller: s335209@student.uq.edu.au
+Department of Computer Science and Electrical Engineering:
+http://www.csee.uq.edu.au
+University of Queensland: http://www.uq.edu.au
+
+LICENSE FOR THE TEXTALK PROGRAM
+-------------------------------
+
+This program  is being provided to "you", the licensee, by Benjamin Wooler, 
+the "author",  under the following  license,  which applies to any  program
+or other work which contains a notice placed by the copyright holder saying
+it may be distributed under the terms of this license. The "program", below,
+refers to any such program or work.
+
+By obtaining, using and/or copying the TexTalk Program or source code, you
+agree that you have read, understood, and will comply with these terms and
+conditions : 
+
+
+Terms and conditions for the distribution of the Program
+--------------------------------------------------------
+
+This Program may not be sold or incorporated into any product which is
+sold without prior permission from the Author. 
+
+When no charge is made, this Program may be copied and distributed freely,
+provided that this notice is copied and distributed with it. Each time you
+redistribute the Program (or any work based on the program), the recipient
+automatically receives a license from the original licensor to copy or
+distribute the program subject to these terms and conditions. You may not
+impose any further restrictions on the recipients' exercise of the rights
+granted herein. You are not reponsible for enforcing compliance by third
+parties to this License. 
+
+If you wish to incorporate the Program into other free programs whose
+distribution conditions are
+different, write to the Author to ask for permission. 
+
+
+Terms and conditions on the use of the Program
+----------------------------------------------
+
+Permission is granted to use this Program for non-commercial, non-military
+purposes. If it is used with the MBROLA program, then the licence for that
+and the voice databases used with it must be adhered to.
