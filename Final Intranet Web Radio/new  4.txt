@@ -1,0 +1,112 @@
+<div class="cr_rating_box">
+
+
+ <p id="cr_comment_stars">
+            <span style="float: center;">Select your rating:&nbsp;</span> 
+            <a onmouseover="CRanimateCommentRating(1);" onclick="CRsetCommentVote(1)" id="cr_comment_star_1" class="cr_star_empty">&nbsp;</a>
+            <a onmouseover="CRanimateCommentRating(2);" onclick="CRsetCommentVote(2)" id="cr_comment_star_2" class="cr_star_empty">&nbsp;</a>
+            <a onmouseover="CRanimateCommentRating(3);" onclick="CRsetCommentVote(3)" id="cr_comment_star_3" class="cr_star_empty">&nbsp;</a>
+            <a onmouseover="CRanimateCommentRating(4);" onclick="CRsetCommentVote(4)" id="cr_comment_star_4" class="cr_star_empty">&nbsp;</a>
+            <a onmouseover="CRanimateCommentRating(5);" onclick="CRsetCommentVote(5)" id="cr_comment_star_5" class="cr_star_empty">&nbsp;</a>
+        </p>
+		
+		
+		
+		
+			if(seek>num/2){seek=seek-num/2;fl=1;}
+	var zone=1,z=4;
+	if(seek==0)zone=9;
+	else zone=num/seek;
+	if(zone>8)z=1;
+	else if(zone<8&&zone>4)z=2;
+	else if(zone<4&&zone>2.6)z=3;
+	else if(zone<2.6&&zone>2)z=4;
+	else z=5;
+    sec = 150;
+   
+   
+   .mask11 .prog {
+
+    -webkit-mask-image: -webkit-linear-gradient(left, #000 100px, transparent 100px);
+}
+.mask12 .prog {
+
+    -webkit-mask-image: -webkit-linear-gradient(top left, #000 100px, transparent 100px);
+}
+.mask13 .prog {
+
+    -webkit-mask-image: -webkit-linear-gradient(top, #000 100px, transparent 100px);
+}
+.mask14 .prog {
+
+    -webkit-mask-image: -webkit-linear-gradient(top right, #000 100px, transparent 100px);
+}
+.mask15 .prog {
+
+    -webkit-mask-image: -webkit-linear-gradient(right, #000 100px, transparent 100px);
+}
+
+
+	var fl=0,k,num=292,zl=1,zr=-1;
+			if(seek>num/2){seek=seek-num/2;fl=1;}
+	var zone=1,z=0;
+	if(seek==0)zone=9;
+	else zone=num/seek;
+	if(zone>8)z=1;
+	else if(zone<8&&zone>4)z=2;
+	else if(zone<4&&zone>2.6)z=3;
+	else if(zone<2.6&&zone>2)z=4;
+	else z=5;
+	if(fl)zr=15,zl=20+z;
+	else zr=10+z,zl=21;
+	print(zl,zr)
+  progress(289,zl,zr,seek);
+  document.getElementById("my1").innerHTML="in load zl="+zl+" zr="+zr;	
+
+  
+   <script src="sm2/script/soundmanager2.js"></script>
+	<script>
+	soundManager.setup({
+  url: 'sm2/swf/',
+  useHTML5Audio: true,
+  preferFlash: false,
+  useHighPerformance: true,
+   onready: function() {
+    var mySound = soundManager.createSound({
+      id: 'raaz.mp3',
+      url:  'raaz.mp3',
+	   autoPlay: true
+    });
+    //mySound.play();
+  },
+  
+	debugmode: true
+  });
+	</script>
+	
+	 echo"<script src=\"sm2/script/soundmanager2.js\"></script>
+	<script>
+	soundManager.setup({
+  url: 'sm2/swf/',
+  useHTML5Audio: true,
+  preferFlash: false,
+  useHighPerformance: true,
+   onready: function() {
+    var mySound = soundManager.createSound({
+      id: 'raaz.mp3',
+      url:  'raaz.mp3',
+	   autoPlay: true
+    });
+    //mySound.play();
+  },
+  
+	debugmode: true
+  });
+	</script>"
+
+	
+	soundManager.play(cc,{
+  onfinish: function() {
+    loadXMLDoc();
+  }
+});

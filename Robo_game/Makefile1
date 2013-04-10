@@ -1,0 +1,14 @@
+CC = g++
+CFLAGS = -Wall
+PROG = s2
+
+SRCS = som.cpp text3d.cpp
+LIBS = -lglut -lGL -lGLU
+
+all: $(PROG)
+
+$(PROG):	$(SRCS)
+	$(CC) $(CFLAGS) -o $(PROG) $(SRCS) $(LIBS)
+
+clean:
+	rm -f $(PROG)

@@ -1,0 +1,19 @@
+About:
+The assignment is a game in which the player has to go from his current position to a destination, while avoiding obstacles. The world consists 
+of tiles surrounded by water. Some tiles are missing, some are moving in vertical motion, some are /teleporter (if the player walks on any of these tiles, then he is transported back to some random tile). For the vertical tile, if the tile is over the robot's height, the robo would fall,otherwise it would get over the tile.There is a health bar at the top left corner which shows health of the player, whenever the player falls from a vertical moving tile, its health decreases. If health becomes 0, the game ends.
+During this journey, his actions could be viewed from multiple positions, which is controllable from the keyboard keys.
+Player can collect coins and gets three lives if he accidentally falls in the pits.
+
+Movement Controls:
+Use up/down/right/left arrow keys to move the player in the tile world.
+Use 'j' key to jump the player in the direction he is looking.
+
+Camera Controls:
+Use 'f' key to enter/exit first person view mode.
+Use 't' key to enter/exit tower view mode.
+Use 'p' key to enter/exit third person's view mode.
+Use 'v' key to enter/exit tile view mode. Use 'a','z','w' and 's' keys to navigate around the tiles,then press ENTER to select the tile.
+Use 'h' key to enter/exit helicopter view mode.Use scroll wheel to move camera close or away from the scene.
+The default view is a view in which the camera follows the player.
+
+

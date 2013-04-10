@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<root><asin>B0007GAEW6</asin><thumbnail>The Mars Volta-Frances the Mute51aFVyaHAGL._SL75_.jpg</thumbnail><image>The Mars Volta-Frances the Mute51aFVyaHAGL.jpg</image><time>1216070592</time></root>

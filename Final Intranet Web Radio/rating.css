@@ -1,0 +1,61 @@
+  .cr_rating_box	{
+       
+        width: 125px;
+        text-align: center;
+        background-color:#ccc; 
+		margin-left:610px;
+
+    }
+	
+	.cr_stars	{
+        font-size: 10px;
+    }
+	.cr_rating_count	{
+        color: #e97b19;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        font-weight: bold;
+    }
+	
+	 .cr_product_rating	{
+        font-size: 24px;
+        color: #cccccc;
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+	
+	   .cr_star_full	{
+        background-image:url("star_full.jpg");
+        height: 17px;
+        width: 17px;
+        padding: 0;
+        margin: 0;
+        display: block;
+        float: left;
+        text-decoration: none;
+    }
+    .cr_star_half	{
+        background-image:url("star_half.jpg");
+        height: 17px;
+        width: 17px;
+        padding: 0;
+        margin: 0;
+        display: block;
+        float: left;
+        text-decoration: none;
+    }
+    .cr_star_empty	{
+        background-image: url("star_empty.jpg");
+        height: 17px;
+        width: 17px;
+        padding: 0;
+        margin: 0;
+        display: block;
+        float: left;
+        text-decoration: none;
+    }
+    .cr_product_rating_message	{
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        color: #666666;
+        font-size: 10px;
+    }

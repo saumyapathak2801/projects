@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<root><asin>B00009V7T2</asin><thumbnail>The Mars Volta-De-Loused In The Comatorium41E1BHMGBWL._SL75_.jpg</thumbnail><image>The Mars Volta-De-Loused In The Comatorium41E1BHMGBWL.jpg</image><time>1216004694</time></root>
