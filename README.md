@@ -1,4 +1,4 @@
-projects
+Projects
 ========
 
-Intranet web radio ode for iiit-Hyderabad campus
+Major ongoing and finished projects.
