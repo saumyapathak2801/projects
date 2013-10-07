@@ -1,0 +1,1000 @@
+ 1014  ./a.out
+ 1015  ls
+ 1016  vim check
+ 1017  rm check
+ 1018  ./a.out
+ 1019  cp ../../os-tas/C_sockets/ts2.c .
+ 1020  gcc ts2.c
+ 1021  ./a.out
+ 1022  gcc ts2.c
+ 1023  ./a.out
+ 1024  gcc ts2.c
+ 1025  cp ../../os-tas/C_sockets/ts2.c .
+ 1026  gcc ts2.c
+ 1027  ./a.out
+ 1028  cp ../../os-tas/C_sockets/ts2.c .
+ 1029  gcc ts2.c
+ 1030  ./a.out
+ 1031  cp ../../os-tas/C_sockets/save.c .
+ 1032  gcc save.c
+ 1033  ./a.out
+ 1034  gcc ts2.c
+ 1035  ./a.out
+ 1036  cp ../../os-tas/C_sockets/save.c .
+ 1037  cp ../../os-tas/C_sockets/ts2.c .
+ 1038  gcc ts2.c
+ 1039  ./a.out
+ 1040  gcc ts2.c
+ 1041  cp ../../os-tas/C_sockets/ts2.c .
+ 1042  gcc ts2.c
+ 1043  ./a.out
+ 1044  cp ../../os-tas/C_sockets/ts2.c .
+ 1045  gcc ts2.c
+ 1046  ./a.out
+ 1047  cp ../../os-tas/C_sockets/ts2.c .
+ 1048  gcc ts2.c
+ 1049  ./a.out
+ 1050  cp ../../os-tas/C_sockets/ts2.c .
+ 1051  gcc ts2.c
+ 1052  ./a.out
+ 1053  cp ../../os-tas/C_sockets/ts2.c .
+ 1054  gcc ts2.c
+ 1055  ./a.out
+ 1056  cp ../../os-tas/C_sockets/ts2.c .
+ 1057  gcc ts2.c
+ 1058  ./a.out
+ 1059  cp ../../os-tas/C_sockets/ts2.c .
+ 1060  gcc ts2.c
+ 1061  ./a.out
+ 1062  cp ../../os-tas/C_sockets/ts2.c .
+ 1063  gcc ts2.c
+ 1064  ./a.out
+ 1065  cp ../../os-tas/C_sockets/ts2.c .
+ 1066  gcc ts2.c
+ 1067  ./a.out
+ 1068  cp ../../os-tas/C_sockets/ts2.c .
+ 1069  gcc ts2.c
+ 1070  ./a.out
+ 1071  cp ../../os-tas/C_sockets/ts2.c .
+ 1072  gcc ts2.c
+ 1073  ./a.out
+ 1074  cp ../../os-tas/C_sockets/ts2.c .
+ 1075  gcc ts2.c
+ 1076  ./a.out
+ 1077  cp ../../os-tas/C_sockets/ts2.c .
+ 1078  gcc ts2.c
+ 1079  ./a.out 
+ 1080  cp ../../os-tas/C_sockets/ts2.c .
+ 1081  gcc ts2.c
+ 1082  cp ../../os-tas/C_sockets/ts2.c .
+ 1083  ./a.out 
+ 1084  cp ../../os-tas/C_sockets/ts2.c .
+ 1085  gcc ts2.c
+ 1086  ./a.out 
+ 1087  cp ../../os-tas/C_sockets/ts2.c .
+ 1088  gcc ts2.c
+ 1089  ./a.out 
+ 1090  cp ../../os-tas/C_sockets/ts2.c .
+ 1091  gcc ts2.c
+ 1092  ./a.out 
+ 1093  cp ../../os-tas/C_sockets/ts2.c .
+ 1094  gcc ts2.c
+ 1095  ./a.out 
+ 1096  cp ../../os-tas/C_sockets/ts2.c .
+ 1097  gcc t
+ 1098  gcc ts2.c
+ 1099  ./a.out 
+ 1100  cp ../../os-tas/C_sockets/ts2.c .
+ 1101  gcc ts2.c
+ 1102  ./a.out 
+ 1103  cp ../../os-tas/C_sockets/ts2.c .
+ 1104  gcc ts2.c
+ 1105  ./a.out 
+ 1106  cp ../../os-tas/C_sockets/ts2.c .
+ 1107  gcc ts2.c
+ 1108  ./a.out 
+ 1109  cp ../../os-tas/C_sockets/ts2.c .
+ 1110  gcc ts2.c
+ 1111  ./a.out 
+ 1112  gcc ts2.c
+ 1113  cp ../../os-tas/C_sockets/ts2.c .
+ 1114  gcc ts2.c
+ 1115  cp ../../os-tas/C_sockets/ts2.c .
+ 1116  gcc ts2.c
+ 1117  ./a.out 
+ 1118  cp ../../os-tas/C_sockets/ts2.c .
+ 1119  gcc ts2.c
+ 1120  ./a.out 
+ 1121  cp ../../os-tas/C_sockets/ts2.c .
+ 1122  gcc ts2.c
+ 1123  ./a.out
+ 1124  cp ../../os-tas/C_sockets/ts2.c .
+ 1125  gcc ts2.c
+ 1126  ./a.out
+ 1127  cp ../../os-tas/C_sockets/ts2.c .
+ 1128  gcc ts2.c
+ 1129  ./a.out
+ 1130  cp ../../os-tas/C_sockets/ts2.c .
+ 1131  gcc ts2.c
+ 1132  ./a.out
+ 1133  cp ../../os-tas/C_sockets/ts2.c .
+ 1134  gcc ts2.c
+ 1135  ./a.out
+ 1136  cp ../../os-tas/C_sockets/ts2.c .
+ 1137  gcc ts2.c
+ 1138  ./a.out
+ 1139  cp ../../os-tas/C_sockets/ts2.c .
+ 1140  gcc ts2.c
+ 1141  ./a.out
+ 1142  cp ../../os-tas/C_sockets/ts2.c .
+ 1143  gcc ts2.c
+ 1144  ./a.out
+ 1145  cp ../../os-tas/C_sockets/ts2.c .
+ 1146  gcc ts2.c
+ 1147  ./a.out
+ 1148  cp ../../os-tas/C_sockets/ts2.c .
+ 1149  gcc ts2.c
+ 1150  ./a.out
+ 1151  gcc ts2.c
+ 1152  cp ../../os-tas/C_sockets/ts2.c .
+ 1153  gcc ts2.c
+ 1154  ./a.out
+ 1155  cp ../../os-tas/C_sockets/ts2.c .
+ 1156  gcc ts2.c
+ 1157  ./a.out
+ 1158  cp ../../os-tas/C_sockets/ts2.c .
+ 1159  gcc ts2.c
+ 1160  cp ../../os-tas/C_sockets/ts2.c .
+ 1161  gcc ts2.c
+ 1162  ./a.out
+ 1163  cp ../../os-tas/C_sockets/ts2.c .
+ 1164  gcc ts2.c
+ 1165  ./a.out
+ 1166  cp ../../os-tas/C_sockets/ts2.c .
+ 1167  gcc ts2.c
+ 1168  ./a.out
+ 1169  cp ../../os-tas/C_sockets/ts2.c .
+ 1170  gcc ts2.c
+ 1171  ./a.out
+ 1172  cp ../../os-tas/C_sockets/ts2.c .
+ 1173  gcc ts2.c
+ 1174  ./a.out
+ 1175  cp ../../os-tas/C_sockets/ts2.c .
+ 1176  gcc ts2.c
+ 1177  ./a.out
+ 1178  cp ../../os-tas/C_sockets/ts2.c .
+ 1179  gcc ts2.c
+ 1180  cp ../../os-tas/C_sockets/ts2.c .
+ 1181  gcc ts2.c
+ 1182  ./a.out
+ 1183  cp ../../os-tas/C_sockets/ts2.c .
+ 1184  gcc ts2.c
+ 1185  cp ../../os-tas/C_sockets/ts2.c .
+ 1186  gcc ts2.c
+ 1187  cp ../../os-tas/C_sockets/ts2.c .
+ 1188  gcc ts2.c
+ 1189  cp ../../os-tas/C_sockets/ts2.c .
+ 1190  gcc ts2.c
+ 1191  ./a.out
+ 1192  gcc ts2.c
+ 1193  cp ../../os-tas/C_sockets/ts2.c .
+ 1194  gcc ts2.c
+ 1195  ./a.out
+ 1196  cp ../../os-tas/C_sockets/ts2.c .
+ 1197  gcc ts2.c
+ 1198  ./a.out
+ 1199  cp ../../os-tas/C_sockets/ts2.c .
+ 1200  gcc ts2.c
+ 1201  ./a.out
+ 1202  cp ../../os-tas/C_sockets/ts2.c .
+ 1203  gcc ts2.c
+ 1204  ./a.out
+ 1205  cp ../../os-tas/C_sockets/ts2.c .
+ 1206  gcc ts2.c
+ 1207  ./a.out
+ 1208  cp ../../os-tas/C_sockets/down.c .
+ 1209  gcc down.c
+ 1210  ./a.out
+ 1211  gcc ts2.c
+ 1212  ./a.out
+ 1213  gcc ts2.c
+ 1214  ./a.out
+ 1215  gcc ts2.c
+ 1216  ./a.out
+ 1217  vim check
+ 1218  gcc ts2.c
+ 1219  ./a.out
+ 1220  vim check
+ 1221  rm check
+ 1222  ./a.out
+ 1223  vim check
+ 1224  rm check
+ 1225  ./a.out
+ 1226  vim check
+ 1227  gcc ts2.c
+ 1228  ./a.out
+ 1229  vim check
+ 1230  gcc ts2.c
+ 1231  ./a.out
+ 1232  gcc ts2.c
+ 1233  ./a.out
+ 1234  gcc ts2.c
+ 1235  ./a.out
+ 1236  gcc ts2.c
+ 1237  ./a.out
+ 1238  gcc save.c
+ 1239  ./a.out
+ 1240  gcc save.c
+ 1241  gcc ts2.c
+ 1242  ./a.out
+ 1243  gcc ts2.c
+ 1244  ./a.out
+ 1245  vim check
+ 1246  ./a.out
+ 1247  gcc ts2.c
+ 1248  ./a.out
+ 1249  gcc ts2.c
+ 1250  ./a.out
+ 1251  gcc ts2.c
+ 1252  ./a.out
+ 1253  gcc ts2.c
+ 1254  ./a.out
+ 1255  gcc ts2.c
+ 1256  ./a.out
+ 1257  gcc ts2.c
+ 1258  ./a.out
+ 1259  gcc ts2.c
+ 1260  ./a.out
+ 1261  gcc ts2.c
+ 1262  ./a.out
+ 1263  gcc ts2.c
+ 1264  ./a.out
+ 1265  gcc ts2.c
+ 1266  ./a.out
+ 1267  gcc ts2.c
+ 1268  ./a.out
+ 1269  vim check
+ 1270  gcc ts2.c
+ 1271  ./a.out
+ 1272  gcc ts2.c
+ 1273  ./a.out
+ 1274  gcc ts2.c
+ 1275  ./a.out
+ 1276  gcc ts2.c
+ 1277  ./a.out
+ 1278  gcc ts2.c
+ 1279  ./a.out
+ 1280  gcc ts2.c
+ 1281  ./a.out
+ 1282  gcc ts2.c
+ 1283  ./a.out
+ 1284  gcc ts2.c
+ 1285  ./a.out
+ 1286  gcc ts2.c
+ 1287  ./a.out
+ 1288  gcc ts2.c
+ 1289  ./a.out
+ 1290  gcc ts2.c
+ 1291  ./a.out
+ 1292  gcc ts2.c
+ 1293  ./a.out
+ 1294  gcc ts2.c
+ 1295  ./a.out
+ 1296  gcc ts2.c
+ 1297  ./a.out
+ 1298  gcc ts2.c
+ 1299  ./a.out
+ 1300  gcc ts2.c
+ 1301  ./a.out
+ 1302  gcc ts2.c
+ 1303  ./a.out
+ 1304  gcc ts2.c
+ 1305  ./a.out
+ 1306  gcc ts2.c
+ 1307  ./a.out
+ 1308  gcc ts2.c
+ 1309  ./a.out
+ 1310  gcc ts2.c
+ 1311  ./a.out
+ 1312  gcc ts2.c
+ 1313  ./a.out
+ 1314  gcc ts2.c
+ 1315  ./a.out
+ 1316  gcc ts2.c
+ 1317  ./a.out
+ 1318  gcc ts2.c
+ 1319  ./a.out
+ 1320  gcc ts2.c
+ 1321  ./a.out
+ 1322  gcc ts2.c
+ 1323  ./a.out
+ 1324  gcc ts2.c
+ 1325  ./a.out
+ 1326  gcc ts2.c
+ 1327  ./a.out
+ 1328  gcc ts2.c
+ 1329  ./a.out
+ 1330  gcc ts2.c
+ 1331  ./a.out
+ 1332  gcc ts2.c
+ 1333  ./a.out
+ 1334  gcc ts2.c
+ 1335  ./a.out
+ 1336  gcc ts2.c
+ 1337  ./a.out
+ 1338  gcc ts2.c
+ 1339  ./a.out
+ 1340  gcc ts2.c
+ 1341  ./a.out
+ 1342  gcc down.c
+ 1343  ./a.out
+ 1344  ls
+ 1345  cd ../../os/C_sockets/
+ 1346  ls
+ 1347  ls
+ 1348  vim down.c 
+ 1349  sh graphic_card_off.sh 
+ 1350  cd
+ 1351  vim githelp
+ 1352  sh graphic_card_off.sh 
+ 1353  vim session.php 
+ 1354  cd
+ 1355  cd padhai/sem4/networks/os/C_sockets/
+ 1356  l
+ 1357  ls
+ 1358  vim file1.c 
+ 1359  ls
+ 1360  cd ..
+ 1361  l
+ 1362  vim file1
+ 1363  vim file1.c 
+ 1364  vim file1(2).c
+ 1365  vim file1\2/.c
+ 1366  ls
+ 1367  vim file2.c 
+ 1368  ls
+ 1369  cd Gnome-OPW/
+ 1370  ls
+ 1371  cd sessions/
+ 1372  ls
+ 1373  vim session.php 
+ 1374  vim single-session.php 
+ 1375  cd ../../finalradio/
+ 1376  cd wordpress/
+ 1377  ls
+ 1378  cd wp-content/
+ 1379  cd plugins/sessions/
+ 1380  vim single-session.php 
+ 1381  cd
+ 1382  cd padhai/sem4/networks/
+ 1383  ls
+ 1384  cd os-tas/
+ 1385  ls
+ 1386  cd C_sockets/
+ 1387  ls
+ 1388  vim ts2.c 
+ 1389  cd
+ 1390  dc Downloads/
+ 1391  cd Downloads/
+ 1392  ls
+ 1393  vim file1
+ 1394  vim file1.cpp 
+ 1395  cd
+ 1396  sh graphic_card_off.sh 
+ 1397  cd padhai/sem4/networks/
+ 1398  ls
+ 1399  cd 201101121_201101141/
+ 1400  ls
+ 1401  cd client/
+ 1402  vim tcp.c 
+ 1403  cd ../server/
+ 1404  ls
+ 1405  gcc tcp.c 
+ 1406  cp ../client/tcp.c .
+ 1407  gcc tcp.c 
+ 1408  ./a.out
+ 1409  cp ../client/tcp.c .
+ 1410  gcc tcp.c 
+ 1411  ./a.out
+ 1412  cp ../client/tcp.c .
+ 1413  gcc tcp.c 
+ 1414  ./a.out
+ 1415  cp ../client/tcp.c .
+ 1416  gcc tcp.c 
+ 1417  ./a.out
+ 1418  cp ../client/tcp.c .
+ 1419  gcc tcp.c 
+ 1420  ./a.out
+ 1421  cp ../client/tcp.c .
+ 1422  gcc tcp.c 
+ 1423  ./a.out
+ 1424  cp ../client/tcp.c .
+ 1425  gcc tcp.c 
+ 1426  ./a.out
+ 1427  vim tcp.c 
+ 1428  cp ../client/tcp.c .
+ 1429  gcc tcp.c 
+ 1430  ./a.out
+ 1431  gcc tcp.c 
+ 1432  ./a.out
+ 1433  cp ../client/tcp.c .
+ 1434  gcc tcp.c 
+ 1435  ./a.out
+ 1436  cp ../client/tcp.c .
+ 1437  gcc tcp.c 
+ 1438  ./a.out
+ 1439  cp ../client/tcp.c .
+ 1440  gcc tcp.c 
+ 1441  ./a.out
+ 1442  cp ../client/tcp.c .
+ 1443  gcc tcp.c 
+ 1444  ./a.out
+ 1445  gcc tcp.c 
+ 1446  ./a.out
+ 1447  gcc tcp.c 
+ 1448  ./a.out
+ 1449  gcc tcp.c 
+ 1450  ./a.out
+ 1451  gcc tcp.c 
+ 1452  ./a.out
+ 1453  gcc tcp.c 
+ 1454  ./a.out
+ 1455  gcc tcp.c 
+ 1456  ./a.out
+ 1457  gcc tcp.c 
+ 1458  ./a.out
+ 1459  gcc tcp.c 
+ 1460  ./a.out
+ 1461  gcc tcp.c 
+ 1462  ./a.out
+ 1463  gcc tcp.c 
+ 1464  ./a.out
+ 1465  gcc tcp.c 
+ 1466  ./a.out
+ 1467  gcc tcp.c 
+ 1468  ./a.out
+ 1469  cd ../../
+ 1470  ls
+ 1471  cd os-tas/
+ 1472  ls
+ 1473  cd C_sockets/
+ 1474  ls
+ 1475  cd ../../os
+ 1476  ls
+ 1477  vim file2.c 
+ 1478  vim file1.c 
+ 1479  vim file2.c 
+ 1480  vim file1.c 
+ 1481  cd C_sockets/
+ 1482  ls
+ 1483  vim file1.c 
+ 1484  cd ~/Downloads/
+ 1485  vim file1.cpp 
+ 1486  sh graphic_card_off.sh 
+ 1487  cd ../server/
+ 1488  cp ../client/tcp.c .
+ 1489  gcc tcp.c 
+ 1490  ./a.out
+ 1491  cp ../client/tcp.c .
+ 1492  gcc tcp.c 
+ 1493  ./a.out
+ 1494  gcc tcp.c 
+ 1495  ./a.out
+ 1496  gcc tcp.c 
+ 1497  cp ../client/tcp.c .
+ 1498  gcc tcp.c 
+ 1499  ./a.out
+ 1500  cp ../client/tcp.c .
+ 1501  gcc tcp.c 
+ 1502  ./a.out
+ 1503  cp ../client/tcp.c .
+ 1504  gcc tcp.c 
+ 1505  ./a.out
+ 1506  cp ../client/tcp.c .
+ 1507  gcc tcp.c 
+ 1508  ./a.out
+ 1509  cp ../client/tcp.c .
+ 1510  gcc tcp.c 
+ 1511  ./a.out
+ 1512  cp ../client/tcp.c .
+ 1513  gcc tcp.c 
+ 1514  ./a.out
+ 1515  cp ../client/tcp.c .
+ 1516  gcc tcp.c 
+ 1517  ./a.out
+ 1518  cp ../client/tcp.c .
+ 1519  gcc tcp.c 
+ 1520  ./a.out
+ 1521  cp ../client/tcp.c .
+ 1522  gcc tcp.c 
+ 1523  ./a.out
+ 1524  cp ../client/tcp.c .
+ 1525  gcc tcp.c 
+ 1526  ./a.out
+ 1527  gcc tcp.c 
+ 1528  cp ../client/tcp.c .
+ 1529  gcc tcp.c 
+ 1530  ./a.out
+ 1531  cp ../client/tcp.c .
+ 1532  gcc tcp.c 
+ 1533  ./a.out
+ 1534  gcc tcp.c 
+ 1535  ./a.out
+ 1536  cp ../client/tcp.c .
+ 1537  gcc tcp.c 
+ 1538  ./a.out
+ 1539  gcc tcp.c 
+ 1540  ./a.out 
+ 1541  gcc tcp.c 
+ 1542  ./a.out 
+ 1543  gcc tcp.c 
+ 1544  ./a.out 
+ 1545  gcc tcp.c 
+ 1546  ./a.out 
+ 1547  gcc tcp.c 
+ 1548  ./a.out 
+ 1549  gcc tcp.c 
+ 1550  ./a.out 
+ 1551  gcc tcp.c 
+ 1552  ./a.out 
+ 1553  gcc tcp.c 
+ 1554  ./a.out 
+ 1555  gcc tcp.c 
+ 1556  ./a.out 
+ 1557  gcc tcp.c 
+ 1558  ./a.out 
+ 1559  gcc tcp.c 
+ 1560  ./a.out 
+ 1561  gcc tcp.c 
+ 1562  ./a.out 
+ 1563  gcc tcp.c 
+ 1564  ./a.out 
+ 1565  gcc tcp.c 
+ 1566  ./a.out 
+ 1567  gcc tcp.c 
+ 1568  ./a.out 
+ 1569  gcc tcp.c 
+ 1570  ./a.out 
+ 1571  cd ..
+ 1572  ls
+ 1573  cd os
+ 1574  ls
+ 1575  cd
+ 1576  cd Downloads/
+ 1577  ls
+ 1578  vim file1.cpp 
+ 1579  cd
+ 1580  ls | grep .sh
+ 1581  vim temp.sh 
+ 1582  cd padhai/sem4/networks/
+ 1583  ls
+ 1584  cd 201101121_201101141/
+ 1585  ls
+ 1586  cd client/
+ 1587  ls
+ 1588  vim tcp.c 
+ 1589  cp tcp.c save.c
+ 1590  vim tcp.c
+ 1591  cd
+ 1592  ls | grep git
+ 1593  vim githelp 
+ 1594  cd Gnome-OPW/
+ 1595  ls
+ 1596  cd sessions/
+ 1597  ls 
+ 1598  cd
+ 1599  cd project
+ 1600  cd projects
+ 1601  ls
+ 1602  cd ..
+ 1603  ls
+ 1604  ls | grep proj
+ 1605  cd projects/
+ 1606  ls
+ 1607  cd eden/
+ 1608  ls
+ 1609  cd ..
+ 1610  vim githelp 
+ 1611  cd padhai/sem4/graphics/
+ 1612  ls
+ 1613  cd upload/
+ 1614  ls
+ 1615  ./s > out
+ 1616  cd ../assgn4/
+ 1617  ls
+ 1618  cd upload/
+ 1619  ls
+ 1620  ./s > out
+ 1621  cd ..
+ 1622  cp -r upload ~/projects/.
+ 1623  ssh y2y@10.4.2.27
+ 1624  sh graphic_card_off.sh 
+ 1625  cd padhai/sem4/networks/
+ 1626  evince Curose-Ross\ -\ Computer_Networking_-_A_Top-down_Approach_Featuring_the_Internet__Third_Edition.pdf 
+ 1627  sh graphic_card_off.sh 
+ 1628  cd padhai/sem4/networks/
+ 1629  cd 201101121_201101141/
+ 1630  ls
+ 1631  cd cl
+ 1632  cd client/
+ 1633  ls
+ 1634  cd ..
+ 1635  cd networks/
+ 1636  ls
+ 1637  cd client/
+ 1638  ls
+ 1639  vim tcp.c 
+ 1640  cd ../server/
+ 1641  cp ../client/tcp.c .
+ 1642  gcc tcp.c 
+ 1643  ./a.out
+ 1644  vim history 
+ 1645  rm history 
+ 1646  gcc tcp.c 
+ 1647  cp ../client/tcp.c .
+ 1648  gcc tcp.c 
+ 1649  ./a.out
+ 1650  cp ../client/tcp.c .
+ 1651  gcc tcp.c 
+ 1652  cp ../client/tcp.c .
+ 1653  gcc tcp.c 
+ 1654  ./a.out
+ 1655  cp ../client/tcp.c .
+ 1656  gcc tcp.c 
+ 1657  ./a.out
+ 1658  cp ../client/tcp.c .
+ 1659  gcc tcp.c 
+ 1660  ./a.out
+ 1661  cp ../client/tcp.c .
+ 1662  gcc tcp.c 
+ 1663  ./a.out
+ 1664  cp ../client/tcp.c .
+ 1665  gcc tcp.c 
+ 1666  ./a.out
+ 1667  cp ../client/tcp.c .
+ 1668  gcc tcp.c 
+ 1669  ./a.out
+ 1670  ls
+ 1671  vim history 
+ 1672  gcc ts2udp.c 
+ 1673  ./a.out
+ 1674  cp ../client/tcp.c .
+ 1675  gcc tcp.c 
+ 1676  ./a.out
+ 1677  ls
+ 1678  vim list 
+ 1679  gcc tcp.c 
+ 1680  ./a.out
+ 1681  ls
+ 1682  vim history 
+ 1683  rm history 
+ 1684  gcc tcp.c 
+ 1685  ./a.out
+ 1686  cat history 
+ 1687  gcc tcp.c 
+ 1688  ./a.out
+ 1689  gcc tcp.c 
+ 1690  ./a.out
+ 1691  gcc tcp.c 
+ 1692  ./a.out
+ 1693  gcc tcp.c 
+ 1694  ./a.out
+ 1695  vim history 
+ 1696  gcc tcp.c 
+ 1697  vim history 
+ 1698  gcc tcp.c 
+ 1699  ./a.out
+ 1700  vim history 
+ 1701  gcc tcp.c 
+ 1702  ./a.out
+ 1703  vim history 
+ 1704  gcc ts2udp.c 
+ 1705  ./a.out
+ 1706  gcc tcp.c 
+ 1707  ./a.out
+ 1708  vim history 
+ 1709  cat history 
+ 1710  cd ../server/
+ 1711  cat history 
+ 1712  cd 
+ 1713  cd Downloads/
+ 1714  vim file1.cpp 
+ 1715  cd padhai/sem4/dsaa/Project/
+ 1716  ls
+ 1717  g++ prog1.cpp 
+ 1718  cp prog1.cpp ~/.
+ 1719  cd
+ 1720  sh graphic_card_off.sh 
+ 1721  sudo apt-get install opencv
+ 1722  vim opencv.sh
+ 1723  sh opencv.sh 
+ 1724  vim opencv.sh 
+ 1725  ls | grep cv
+ 1726  g++ prog1.cpp 
+ 1727  sudo apt-get -y install build-essential cmake pkg-config
+ 1728  sudo apt-get -y install libjpeg62-dev 
+ 1729  sudo apt-get -y install libtiff4-dev libjasper-dev
+ 1730  sudo apt-get -y install  libgtk2.0-dev
+ 1731  sudo apt-get -y install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+ 1732  sudo apt-get -y install libdc1394-22-dev
+ 1733  sudo apt-get -y install libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev
+ 1734  sudo apt-get -y install python-dev python-numpy
+ 1735  sudo apt-get -y install libtbb-dev
+ 1736  sudo apt-get -y install libqt4-dev
+ 1737  mkdir opencv
+ 1738  cd opencv/
+ 1739  wget <a href="http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.2/OpenCV-2.4.2.tar.bz2">http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.2/Op...</a>
+ 1740  wget http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.2/Op...
+ 1741  wget http://sourceforge.net/projects/opencvlibrary/files/opencv-unix/2.4.2/OpenCV-2.4.2.tar.bz2
+ 1742  tar -xvf OpenCV-2.4.*.tar.bz2
+ 1743  cd OpenCV-2.4.2/
+ 1744  mkdir build
+ 1745  cd build/
+ 1746  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local
+ 1747  -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON
+ 1748  -D INSTALL_C_EXAMPLES=ON -D INSTALL_PYTHON_EXAMPLES=ON
+ 1749  vim b.sh
+ 1750  sh b.sh
+ 1751  ls
+ 1752  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local
+ 1753  cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX/usr/local
+ 1754  vim b.sh 
+ 1755  sh b.sh
+ 1756  make
+ 1757  sudo make install
+ 1758  cp ~/prog1.cpp ../
+ 1759  ls
+ 1760  cd ..
+ 1761  ls
+ 1762  g++ prog1.cpp 
+ 1763  vim README 
+ 1764  ls
+ 1765  cd doc/
+ 1766  ls
+ 1767  cd ..
+ 1768  ls
+ 1769  cd samples/
+ 1770  ls
+ 1771  cd cpp/
+ 1772  ls
+ 1773  g++ letter_recog.cpp 
+ 1774  cd cpp/cd ../../
+ 1775  cd ../../
+ 1776  ls
+ 1777  cd build/
+ 1778  sudo make install
+ 1779  ls
+ 1780  cd unix-install/
+ 1781  ls
+ 1782  cmake
+ 1783  make
+ 1784  cd ..
+ 1785  ls
+ 1786  g++ prog1.cpp 
+ 1787  vim prog1.cpp 
+ 1788  g++ -o prog1.cpp pkg-config opencv pkg-config --libs opencv
+ 1789  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1790  ls
+ 1791  ./opencv-test 
+ 1792  ls
+ 1793  cd build/
+ 1794  l
+ 1795  la
+ 1796  cd include/
+ 1797  ls
+ 1798  cd ..
+ 1799  ls
+ 1800  cd junk/
+ 1801  ls
+ 1802  cd ../opencv2/
+ 1803  ls
+ 1804  cd ..
+ 1805  cd /usr/local/opencv
+ 1806  sudo updatedb && locate libopencv_core.so.2.4
+ 1807  sudo locate libopencv_core.so.2.4
+ 1808  sudo locate libopencv_core.so.2.2
+ 1809  sudo updatedb && locate libopencv_core.so.2.4
+ 1810  export LD_LIBRARY_PATH=/usr/local/lib:/home/LOCAL_USER_NAME/OpenCV/OpenCV-2.4.2/build/lib:$LD_LIBRARY_PATH
+ 1811  export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH
+ 1812  export CLASSPATH=/usr/share/java/mysql.jar:/usr/include/mysql++:$CLASSPATH
+ 1813  ./opencv-test 
+ 1814  cd ..
+ 1815  ./opencv-test 
+ 1816  vim prog1.cpp 
+ 1817  cd
+ 1818  cd finalradio/wordpress/wp-content/themes/
+ 1819  ls
+ 1820  cd mytheme/
+ 1821  ls
+ 1822  cd inc
+ 1823  vim template-tags.php 
+ 1824  vim tweaks.php 
+ 1825  cd ..
+ 1826  ls
+ 1827  vim header.php 
+ 1828  cd js
+ 1829  vim html5.js
+ 1830  cd ..
+ 1831  vim header.php 
+ 1832  cd ../../
+ 1833  cd plugins/
+ 1834  cd sessions/
+ 1835  ls
+ 1836  vim single-session.php 
+ 1837  vim session.php 
+ 1838  cd ~/padhai/sem4/dsaa/Project/
+ 1839  g++ prog1.cpp 
+ 1840  gcc prog1.cpp 
+ 1841  cd
+ 1842  cd cj
+ 1843  cd c/cj
+ 1844  ls
+ 1845  mkdir 2013
+ 1846  cd 201
+ 1847  cd 2013/
+ 1848  ls
+ 1849  vim tic.c
+ 1850  gcc tic.c 
+ 1851  vim tic.c
+ 1852  gcc tic.c 
+ 1853  ls
+ 1854  ./a.out < A-small-attempt0.in > out
+ 1855  vim A-small-attempt0.in 
+ 1856  vim tic
+ 1857  vim tic.c
+ 1858  vim prog1.cpp 
+ 1859  ls
+ 1860  ./opencv-test n.jpg watermark.png c.mp3
+ 1861  cd
+ 1862  sh graphic_card_off.sh 
+ 1863  cd padhai/sem4/dsaa/Project/
+ 1864  ls
+ 1865  g++ prog1.cpp 
+ 1866  history
+ 1867  g++ -o prog1.cpp pkg-config opencv pkg-config --libs opencv
+ 1868  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1869  vim compile
+ 1870  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1871  ./opencv-test 
+ 1872  export LD_LIBRARY_PATH=/usr/local/lib:/home/LOCAL_USER_NAME/OpenCV/OpenCV-2.4.2/build/lib:$LD_LIBRARY_PATH
+ 1873  export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH
+ 1874  export CLASSPATH=/usr/share/java/mysql.jar:/usr/include/mysql++:$CLASSPATH
+ 1875  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1876  ./opencv-test 
+ 1877  vim prog1.cpp 
+ 1878  ./opencv-test 
+ 1879  ./opencv-test n.jpg watermark.png c.mp3
+ 1880  vim prog1.cpp 
+ 1881  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1882  ./opencv-test n.jpg watermark.png c.mp3
+ 1883  vim prog1.cpp 
+ 1884  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1885  ./opencv-test n.jpg watermark.png c.mp3
+ 1886  vim prog1.cpp 
+ 1887  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1888  ./opencv-test n.jpg watermark.png c.mp3
+ 1889  vim prog1.cpp 
+ 1890  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1891  ./opencv-test n.jpg watermark.png c.mp3
+ 1892  vim prog1.cpp 
+ 1893  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1894  ./opencv-test n.jpg watermark.png c.mp3
+ 1895  vim prog1.cpp 
+ 1896  ./opencv-test n.jpg watermark.png v.WAV
+ 1897  vim prog1.cpp 
+ 1898  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1899  ./opencv-test n.jpg watermark.png v.WAV
+ 1900  vim prog1.cpp 
+ 1901  ./opencv-test m.jpg watermark.png v.WAV
+ 1902  vim prog1.cpp 
+ 1903  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1904  ./opencv-test m.jpg watermark.png v.WAV
+ 1905  vim prog1.cpp 
+ 1906  ./opencv-test watermark.png watermark.png v.WAV
+ 1907  vim prog1.cpp 
+ 1908  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1909  ./opencv-test watermark.png watermark.png v.WAV
+ 1910  vim prog1.cpp 
+ 1911  ./opencv-test watermark.png watermark.png v.WAV
+ 1912  vim prog1.cpp 
+ 1913  ./opencv-test home.png watermark.png v.WAV
+ 1914  wq
+ 1915  vim prog1.cpp 
+ 1916  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1917  ./opencv-test home.png watermark.png v.WAV
+ 1918  ls
+ 1919  vim p2.cpp
+ 1920  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   p2.cpp   -o p2
+ 1921  ./p2 home.png watermark.png v.WAV
+ 1922  vim p2.cpp
+ 1923  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   p2.cpp   -o p2
+ 1924  ./p2 home.png watermark.png v.WAV
+ 1925  vim p2.cpp
+ 1926  ./p2 new_image.png watermark.png
+ 1927  vim prog1.cpp 
+ 1928  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1929  ./opencv-test home.png watermark.png v.WAV
+ 1930  vim prog1.cpp 
+ 1931  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1932  ./opencv-test home.png watermark.png v.WAV
+ 1933  vim prog1.cpp 
+ 1934  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1935  ./opencv-test home.png watermark.png v.WAV
+ 1936  vim prog1.cpp 
+ 1937  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1938  ./opencv-test home.png watermark.png v.WAV
+ 1939  vim prog1.cpp 
+ 1940  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1941  ./opencv-test home.png watermark.png v.WAV
+ 1942  ls
+ 1943  rm new_audio.mp3 
+ 1944  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   p2.cpp   -o opencv-test
+ 1945  ./opencv-test new_image.png watermark.png
+ 1946  ls
+ 1947  vim p2.cpp
+ 1948  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   p2.cpp   -o opencv-test
+ 1949  ./opencv-test new_image.png watermark.png
+ 1950  vim p2.cpp
+ 1951  vim prog1.cpp 
+ 1952  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   p2.cpp   -o opencv-test
+ 1953  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1954  ./opencv-test new_image.png watermark.png v.WAV
+ 1955  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)  p2.cpp   -o opencv-test
+ 1956  ./opencv-test new_image.png watermark.png 
+ 1957  vim prog1.cpp 
+ 1958  vim p2.cpp
+ 1959  cd
+ 1960  cd finalradio/wordpress/
+ 1961  cd wp-content/
+ 1962  ls
+ 1963  cd plugins/
+ 1964  cd speakers/
+ 1965  ls
+ 1966  vim speakers.php
+ 1967  cd
+ 1968  cd padhai/sem4/dsaa/Project/
+ 1969  ls
+ 1970  cd
+ 1971  cd finalradio/wordpress/wp-content/plugins/speakers/
+ 1972  ls
+ 1973  vim single-speakers.php
+ 1974  cp single-speakers.php single.php
+ 1975  vim single
+ 1976  vim single.php 
+ 1977  cd
+ 1978  cd padhai/sem4/dsaa/Project/
+ 1979  ls
+ 1980  history
+ 1981  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   p2.cpp   -o opencv-test
+ 1982  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1983  history > out
+ 1984  vim out
+ 1985  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1986  ./opencv-test home.png watermark.png v.WAV
+ 1987  vim prog1.cpp
+ 1988  ./opencv-test home.png watermark.png v.WAV
+ 1989  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
+ 1990  ./opencv-test home.png watermark.png v.WAV
+ 1991  g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   p2.cpp   -o opencv-test
+ 1992  ls
+ 1993  ./opencv-test new_image.png watermark.png
+ 1994  ls
+ 1995  vim prog1.cpp 
+ 1996  vim p2.cpp
+ 1997  vim single-speakers.php
+ 1998  vim speakers.php
+ 1999  vim cse251_sampleCode.cpp 
+ 2000  vim sgl.h 
+ 2001  vim prog1.cpp 
+ 2002  cd ../../graphics/
+ 2003  ls
+ 2004  cd assgn
+ 2005  cd assgn2
+ 2006  s
+ 2007  ls
+ 2008  cp Makefile ../../dsaa/Project
+ 2009  cd ../../dsaa/Project/
+ 2010  vim Makefile 
+ 2011  vim history
+ 2012  vim out
+ 2013  history > out

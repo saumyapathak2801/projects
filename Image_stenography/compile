@@ -1,0 +1,1 @@
+g++  -g -Wall -Wno-unused-function $(pkg-config --cflags --libs opencv)   prog1.cpp   -o opencv-test
